@@ -81,6 +81,8 @@ def lambda_handler(event, context):
 ## 5) Test
 Click on Deploy and then on Test
 
+**note:** *Increase Lambda timeout for about 30 secs*
+
 <img width="1919" height="913" alt="Screenshot 2025-08-14 105311" src="https://github.com/user-attachments/assets/cc330a21-5da0-4491-a4bd-5e865fc8c652" /><br/>
 
 
